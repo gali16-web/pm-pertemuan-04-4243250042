@@ -1,0 +1,6 @@
+name: sistem_parkir_kampus
+description: Sistem Parkir Kampus FMIPA - Tugas Rutin 4 Pemrograman Mobile
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
