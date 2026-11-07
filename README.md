@@ -82,11 +82,11 @@ classDiagram
 
 Hasil eksekusi program `bin/main.dart`:
 
-![Tangkapan Layar output](screenshots/output_program.png)
+![Tangkapan Layar output](Screenshots/output_program.png)
 
 Hasil Analyz :
 
-![Tangkapan Layar output](screenshots/output_analyze.png)
+![Tangkapan Layar output](Screenshots/output_analyze.png)
 
 ---
 
